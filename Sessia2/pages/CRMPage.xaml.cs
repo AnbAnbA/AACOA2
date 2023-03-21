@@ -46,7 +46,6 @@ namespace Sessia2
                 e.Handled = true;
             }
         }
-
         private void tbPhone_TextChanged(object sender, TextChangedEventArgs e)
         {
             calculateDateSubscriber();
